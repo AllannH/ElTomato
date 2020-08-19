@@ -1,0 +1,1 @@
+pyinstaller.exe --onefile --windowed --icon=astronauta.ico ElTomato.py
